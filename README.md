@@ -2,7 +2,7 @@
 - 👀 I’m interested in aplication for manufacturing and assembly programs
 - 🌱 I’m currently learning, sinning,running
 - 💞️ I’m looking to collaborate with companies or teams for program and understand the architecture of systems
-- 📫 How to reach me vanthony.gutierrez@gecvac.com
+- 📫 How to reach me anthony.gutierrez@gecvac.com
 
 <!---
 AVEXYMS/AVEXYMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
